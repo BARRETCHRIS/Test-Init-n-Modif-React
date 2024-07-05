@@ -1,3 +1,16 @@
+# Personal Notes
+
+## Steps testing
+
+### Review of git usage
+Change first branch name : master to main.
+Start Notes README for test push write.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
