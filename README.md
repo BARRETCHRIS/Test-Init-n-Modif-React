@@ -6,7 +6,9 @@
 Change first branch name : master to main.
 Start Notes README for test push write.
 
-
+### init React v17.0.1 and node v16.20.1
+Change first branch name : master to main.
+Start Notes README for test push write.
 
 
 
